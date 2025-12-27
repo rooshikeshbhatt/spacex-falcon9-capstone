@@ -112,30 +112,6 @@ Logistic Regression, SVM, and KNN achieved the highest overall test accuracy.
 
 ---
 
-## Repository Structure
-```
-
-├── notebooks/
-│   ├── data_collection_api.ipynb
-│   ├── data_collection_web_scraping.ipynb
-│   ├── data_wrangling.ipynb
-│   ├── eda_visualization.ipynb
-│   ├── eda_sql.ipynb
-│   ├── interactive_maps_folium.ipynb
-│   ├── predictive_analysis.ipynb
-│
-├── dashboard/
-│   └── app.py
-│
-├── presentation/
-│   └── SpaceX_Capstone_Presentation.pdf
-│
-├── README.md
-
-```
-
----
-
 ## Conclusion
 This project demonstrates how data science techniques can be applied to real-world aerospace challenges. By integrating historical data analysis, interactive visualization, and predictive modeling, meaningful insights were derived regarding Falcon 9 landing success. The results highlight the impact of experience, mission design, and orbit selection on successful booster recovery.
 
